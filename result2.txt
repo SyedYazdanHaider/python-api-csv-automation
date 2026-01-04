@@ -1,0 +1,3 @@
+Total Users: 10
+Unique cities: 10
+Cities list: ['Gwenborough', 'Wisokyburgh', 'McKenziehaven', 'South Elvis', 'Roscoeview', 'South Christy', 'Howemouth', 'Aliyaview', 'Bartholomebury', 'Lebsackbury']
