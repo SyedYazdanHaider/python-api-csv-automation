@@ -29,5 +29,9 @@ South Christy<br>
 McKenzieha<br>
 Roscoeview<br>
 
+## Email Automation
+This project includes an email automation script using Mailtrap for safe testing.
+The script sends the generated report as an email attachment using SMTP.
+
 ## Author
 Syed Yazdan Haider
